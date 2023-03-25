@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation,MissingTranslation">
+    <string-array name="credits_photos" formatted="false" tools:ignore="TypographyDashes">
+        <item>https://drive.google.com/uc?export=download&amp;id=1Fo2PmLdsE1EKHG0tawrKeviaZVk2M0S0</item>
+    </string-array>
+
+    <string-array name="credits_titles">
+        <item>Luciano Horta</item>
+    </string-array>
+
+    <string-array name="credits_descriptions">
+        <item>Developer</item>
+    </string-array>
+
+    <string-array name="credits_buttons">
+        <item>GitHub</item>
+    </string-array>
+
+    <string-array name="credits_links">
+        <item>https://github.com/lucianohorta/mayaiconsdark/blob/main/README.md</item>
+    </string-array>
+</resources>
