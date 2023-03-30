@@ -36,11 +36,56 @@
 
     <string-array name="latest">
         <item tools:ignore="Typos">ar_zone</item>
+        <item tools:ignore="Typos">android_auto</item>
+        <item tools:ignore="Typos">anyfin</item>
+        <item tools:ignore="Typos">arlo_secure</item>
+        <item tools:ignore="Typos">autotrader</item>
+        <item tools:ignore="Typos">bank_of_america</item>
+        <item tools:ignore="Typos">bbc_iplayer</item>
+        <item tools:ignore="Typos">___bc_services_card</item>
+        <item tools:ignore="Typos">___bclc_lotto</item>
+        <item tools:ignore="Typos">best_fiends</item>
+        <item tools:ignore="Typos">bouncer</item>
+        <item tools:ignore="Typos">burpy_walls</item>
+        <item tools:ignore="Typos">chick_fil_a</item>
+        <item tools:ignore="Typos">crave</item>
+        <item tools:ignore="Typos">dead_cells</item>
+        <item tools:ignore="Typos">dead_cells2</item>
+        <item tools:ignore="Typos">dolby_atmos</item>
+        <item tools:ignore="Typos">efootball</item>
         <item tools:ignore="Typos">expert_raw</item>
+        <item tools:ignore="Typos">fairlight84</item>
+        <item tools:ignore="Typos">fot__mob</item>
         <item tools:ignore="Typos">fullscreen_mode</item>
+        <item tools:ignore="Typos">hyperion_launcher</item>
+        <item tools:ignore="Typos">instacart</item>
+        <item tools:ignore="Typos">intact</item>
+        <item tools:ignore="Typos">iqiyi</item>
+        <item tools:ignore="Typos">kustom_weather_plugin</item>
+        <item tools:ignore="Typos">magic_the_gathering</item>
         <item tools:ignore="Typos">mcpro24fps</item>
         <item tools:ignore="Typos">motioncam_pro</item>
+        <item tools:ignore="Typos">miband_watchfaces</item>
+        <item tools:ignore="Typos">moonly</item>
+        <item tools:ignore="Typos">mtbank_moby</item>
+        <item tools:ignore="Typos">nest</item>
+        <item tools:ignore="Typos">one4___klwp_pro</item>
         <item tools:ignore="Typos">open_english</item>
+        <item tools:ignore="Typos">paisa_expense_manager</item>
+        <item tools:ignore="Typos">playstation_app</item>
+        <item tools:ignore="Typos">proton_drive</item>
+        <item tools:ignore="Typos">rapido</item>
+        <item tools:ignore="Typos">series__guide</item>
+        <item tools:ignore="Typos">simple__login2</item>
+        <item tools:ignore="Typos">skip__the__dishes</item>
+        <item tools:ignore="Typos">smart_cookies</item>
+        <item tools:ignore="Typos">stingray_music</item>
+        <item tools:ignore="Typos">super_starfish</item>
+        <item tools:ignore="Typos">terraria</item>
+        <item tools:ignore="Typos">uninstaller</item>
+        <item tools:ignore="Typos">xfinity</item>
+        <item tools:ignore="Typos">yandex_music</item>
+        <item tools:ignore="Typos">video_mp3_converter</item>
     </string-array>
 
 
@@ -156,11 +201,13 @@
         <item tools:ignore="Typos">among_us</item>
         <item tools:ignore="Typos">amplitube_ua</item>
         <item tools:ignore="Typos">amplitube_ua2</item>
+        <item tools:ignore="Typos">android_auto</item>
         <item tools:ignore="Typos">andronix</item>
         <item tools:ignore="Typos">antivirus</item>
         <item tools:ignore="Typos">angry_birds</item>
         <item tools:ignore="Typos">another_widget</item>
         <item tools:ignore="Typos">any_dot_do</item>
+        <item tools:ignore="Typos">anyfin</item>
         <item tools:ignore="Typos">anylist</item>
         <item tools:ignore="Typos">ap_news</item>
         <item tools:ignore="Typos">ap_news2</item>
@@ -185,6 +232,7 @@
         <item tools:ignore="Typos">ares_dark_icons</item>
         <item tools:ignore="Typos">ares_icon_pack</item>
         <item tools:ignore="Typos">ares_light_icons</item>
+        <item tools:ignore="Typos">arlo_secure</item>
         <item tools:ignore="Typos">artflow</item>
         <item tools:ignore="Typos">artfol</item>
         <item tools:ignore="Typos">artista</item>
@@ -212,6 +260,7 @@
         <item tools:ignore="Typos">autostitch</item>
         <item tools:ignore="Typos">autosync_for_gdrive</item>
         <item tools:ignore="Typos">autotagger_mp3</item>
+        <item tools:ignore="Typos">autotrader</item>
         <item tools:ignore="Typos">autouncle</item>
         <item tools:ignore="Typos">avg_antivirus</item>
         <item tools:ignore="Typos">avira_antivirus</item>
@@ -239,6 +288,7 @@
         <item tools:ignore="Typos">bandpass</item>
         <item tools:ignore="Typos">bandsintown</item>
         <item tools:ignore="Typos">banggood</item>
+        <item tools:ignore="Typos">bank_of_america</item>
         <item tools:ignore="Typos">banner_maker_flyer_ad_design</item>
         <item tools:ignore="Typos">barber_shop</item>
         <item tools:ignore="Typos">barcelona_metro_map</item>
@@ -247,15 +297,19 @@
         <item tools:ignore="Typos">battle_net</item>
         <item tools:ignore="Typos">bazaart</item>
         <item tools:ignore="Typos">be_real</item>
+        <item tools:ignore="Typos">bbc_iplayer</item>
         <item tools:ignore="Typos">bbc_media</item>
         <item tools:ignore="Typos">bbc_news</item>
         <item tools:ignore="Typos">bbva</item>
+        <item tools:ignore="Typos">___bc_services_card</item>
+        <item tools:ignore="Typos">___bclc_lotto</item>
         <item tools:ignore="Typos">beautycam</item>
         <item tools:ignore="Typos">befunky</item>
         <item tools:ignore="Typos">behance</item>
         <item tools:ignore="Typos">bell_fibe_tv</item>
         <item tools:ignore="Typos">bergfex</item>
         <item tools:ignore="Typos">best_buy</item>
+        <item tools:ignore="Typos">best_fiends</item>
         <item tools:ignore="Typos">better__me_health_coaching</item>
         <item tools:ignore="Typos">better__me_mental_health</item>
         <item tools:ignore="Typos">bible_coloring_paint</item>
@@ -304,6 +358,7 @@
         <item tools:ignore="Typos">borealis_icon_pack</item>
         <item tools:ignore="Typos">borno_bangla_keyboard</item>
         <item tools:ignore="Typos">bottom_quick_settings</item>
+        <item tools:ignore="Typos">bouncer</item>
         <item tools:ignore="Typos">box</item>
         <item tools:ignore="Typos">brave_browser</item>
         <item tools:ignore="Typos">brave_browser2</item>
@@ -323,6 +378,7 @@
         <item tools:ignore="Typos">bunq</item>
         <item tools:ignore="Typos">bunq2</item>
         <item tools:ignore="Typos">burger_king</item>
+        <item tools:ignore="Typos">burpy_walls</item>
         <item tools:ignore="Typos">busuu</item>
         <item tools:ignore="Typos">bus_times_london</item>
         <item tools:ignore="Typos">button_mapper</item>
@@ -413,6 +469,7 @@
         <item tools:ignore="Typos">cheap_hotel_deals_hotellook</item>
         <item tools:ignore="Typos">chewy</item>
         <item tools:ignore="Typos">chic_me</item>
+        <item tools:ignore="Typos">chick_fil_a</item>
         <item tools:ignore="Typos">chipper_cash</item>
         <item tools:ignore="Typos">chroma_lab</item>
         <item tools:ignore="Typos">chrono_me</item>
@@ -489,6 +546,7 @@
         <item tools:ignore="Typos">counter</item>
         <item tools:ignore="Typos">coursera</item>
         <item tools:ignore="Typos">craftsy</item>
+        <item tools:ignore="Typos">crave</item>
         <item tools:ignore="Typos">creative__app</item>
         <item tools:ignore="Typos">cred</item>
         <item tools:ignore="Typos">cred2</item>
@@ -521,6 +579,8 @@
         <item tools:ignore="Typos">dashboard_for_pebble</item>
         <item tools:ignore="Typos">dashlane</item>
         <item tools:ignore="Typos">day_one_journal</item>
+        <item tools:ignore="Typos">dead_cells</item>
+        <item tools:ignore="Typos">dead_cells2</item>
         <item tools:ignore="Typos">debloater</item>
         <item tools:ignore="Typos">decolar</item>
         <item tools:ignore="Typos">deepl_translate</item>
@@ -562,6 +622,7 @@
         <item tools:ignore="Typos">dmd_panorama</item>
         <item tools:ignore="Typos">dnotes</item>
         <item tools:ignore="Typos">docs_word</item>
+        <item tools:ignore="Typos">dolby_atmos</item>
         <item tools:ignore="Typos">dolphin_browser</item>
         <item tools:ignore="Typos">dolphin_browser2</item>
         <item tools:ignore="Typos">dolphin_emulator</item>
@@ -620,6 +681,7 @@
         <item tools:ignore="Typos">ecosia2</item>
         <item tools:ignore="Typos">ecosia3</item>
         <item tools:ignore="Typos">edge_lighting</item>
+        <item tools:ignore="Typos">efootball</item>
         <item tools:ignore="Typos">el_corte_ingles</item>
         <item tools:ignore="Typos">el_pais</item>
         <item tools:ignore="Typos">elo7</item>
@@ -677,6 +739,7 @@
         <item tools:ignore="Typos">facebook_messenger_lite</item>
         <item tools:ignore="Typos">facebook_lite</item>
         <item tools:ignore="Typos">facetune</item>
+        <item tools:ignore="Typos">fairlight84</item>
         <item tools:ignore="Typos">falou</item>
         <item tools:ignore="Typos">fast_budget</item>
         <item tools:ignore="Typos">fast_budget2</item>
@@ -771,6 +834,7 @@
         <item tools:ignore="Typos">fooview2</item>
         <item tools:ignore="Typos">forest</item>
         <item tools:ignore="Typos">fortnite</item>
+        <item tools:ignore="Typos">fot__mob</item>
         <item tools:ignore="Typos">fotor</item>
         <item tools:ignore="Typos">foursquare</item>
         <item tools:ignore="Typos">foursquare2</item>
@@ -1058,6 +1122,7 @@
         <item tools:ignore="Typos">hulu</item>
         <item tools:ignore="Typos">hurb</item>
         <item tools:ignore="Typos">hurry</item>
+        <item tools:ignore="Typos">hyperion_launcher</item>
         <item tools:ignore="Typos">hype_text</item>
         <item tools:ignore="Typos">hypocam</item>
         <item tools:ignore="Typos">hvv</item>
@@ -1104,6 +1169,7 @@
         <item tools:ignore="Typos">inshare</item>
         <item tools:ignore="Typos">inshorts</item>
         <item tools:ignore="Typos">inshot</item>
+        <item tools:ignore="Typos">instacart</item>
         <item tools:ignore="Typos">instaclean</item>
         <item tools:ignore="Typos">instagram01</item>
         <item tools:ignore="Typos">instagram02</item>
@@ -1123,6 +1189,7 @@
         <item tools:ignore="Typos">instagram_lite02</item>
         <item tools:ignore="Typos">instamocks</item>
         <item tools:ignore="Typos">instasize</item>
+        <item tools:ignore="Typos">intact</item>
         <item tools:ignore="Typos">internet_browser</item>
         <item tools:ignore="Typos">internet_browser2</item>
         <item tools:ignore="Typos">internet_browser3</item>
@@ -1134,6 +1201,7 @@
         <item tools:ignore="Typos">iptv_extreme2</item>
         <item tools:ignore="Typos">iptv</item>
         <item tools:ignore="Typos">iptv2</item>
+        <item tools:ignore="Typos">iqiyi</item>
         <item tools:ignore="Typos">islam</item>
         <item tools:ignore="Typos">itau</item>
         <item tools:ignore="Typos">itau2</item>
@@ -1182,6 +1250,7 @@
         <item tools:ignore="Typos">komoot</item>
         <item tools:ignore="Typos">komori</item>
         <item tools:ignore="Typos">krita</item>
+        <item tools:ignore="Typos">kustom_weather_plugin</item>
         <item tools:ignore="Typos">kwai</item>
         <item tools:ignore="Typos">kwgt</item>
         <item tools:ignore="Typos">labcorp_patient</item>
@@ -1257,6 +1326,7 @@
         <item tools:ignore="Typos">magalu</item>
         <item tools:ignore="Typos">magic_earth</item>
         <item tools:ignore="Typos">magicpin</item>
+        <item tools:ignore="Typos">magic_the_gathering</item>
         <item tools:ignore="Typos">magisk</item>
         <item tools:ignore="Typos">magisto_video_editor</item>
         <item tools:ignore="Typos">mail</item>
@@ -1348,6 +1418,7 @@
         <item tools:ignore="Typos">metro2</item>
         <item tools:ignore="Typos">meu_alelo</item>
         <item tools:ignore="Typos">meu_tim</item>
+        <item tools:ignore="Typos">miband_watchfaces</item>
         <item tools:ignore="Typos">micopacks</item>
         <item tools:ignore="Typos">mi_remote_controller</item>
         <item tools:ignore="Typos">mi_remote_controller2</item>
@@ -1409,6 +1480,7 @@
         <item tools:ignore="Typos">monese</item>
         <item tools:ignore="Typos">monefy</item>
         <item tools:ignore="Typos">money_manager</item>
+        <item tools:ignore="Typos">moonly</item>
         <item tools:ignore="Typos">moon_plus_reader</item>
         <item tools:ignore="Typos">moon_plus_reader2</item>
         <item tools:ignore="Typos">moon_plus_reader3</item>
@@ -1427,6 +1499,7 @@
         <item tools:ignore="Typos">moto_racing</item>
         <item tools:ignore="Typos">moto_racing2</item>
         <item tools:ignore="Typos">moto_wallpaper</item>
+        <item tools:ignore="Typos">mtbank_moby</item>
         <item tools:ignore="Typos">muffin_glyphs</item>
         <item tools:ignore="Typos">muse__score</item>
         <item tools:ignore="Typos">musicana</item>
@@ -1498,6 +1571,7 @@
         <item tools:ignore="Typos">neo_store</item>
         <item tools:ignore="Typos">nescafe_dolce_gusto2</item>
         <item tools:ignore="Typos">nescafe_dolce_gusto</item>
+        <item tools:ignore="Typos">nest</item>
         <item tools:ignore="Typos">netflix</item>
         <item tools:ignore="Typos">netflix2</item>
         <item tools:ignore="Typos">netflix3</item>
@@ -1583,6 +1657,7 @@
         <item tools:ignore="Typos">omaposti</item>
         <item tools:ignore="Typos">omio</item>
         <item tools:ignore="Typos">omlet</item>
+        <item tools:ignore="Typos">one4___klwp_pro</item>
         <item tools:ignore="Typos">one__card</item>
         <item tools:ignore="Typos">one__score</item>
         <item tools:ignore="Typos">one_hand_operation</item>
@@ -1629,6 +1704,7 @@
         <item tools:ignore="Typos">oyo</item>
         <item tools:ignore="Typos">p__cloud</item>
         <item tools:ignore="Typos">pacer_pedometer</item>
+        <item tools:ignore="Typos">paisa_expense_manager</item>
         <item tools:ignore="Typos">pandora</item>
         <item tools:ignore="Typos">panels</item>
         <item tools:ignore="Typos">pangea</item>
@@ -1734,6 +1810,7 @@
         <item tools:ignore="Typos">plant_parent</item>
         <item tools:ignore="Typos">player__pro</item>
         <item tools:ignore="Typos">playsee</item>
+        <item tools:ignore="Typos">playstation_app</item>
         <item tools:ignore="Typos">plex</item>
         <item tools:ignore="Typos">plus_messenger</item>
         <item tools:ignore="Typos">pluto_tv</item>
@@ -1781,6 +1858,7 @@
         <item tools:ignore="Typos">proshot_camera</item>
         <item tools:ignore="Typos">proshot_camera2</item>
         <item tools:ignore="Typos">protake</item>
+        <item tools:ignore="Typos">proton_drive</item>
         <item tools:ignore="Typos">proton_mail</item>
         <item tools:ignore="Typos">proton_vpn</item>
         <item tools:ignore="Typos">providers</item>
@@ -1801,6 +1879,7 @@
         <item tools:ignore="Typos">radio_fm</item>
         <item tools:ignore="Typos">radio_fm2</item>
         <item tools:ignore="Typos">randomix</item>
+        <item tools:ignore="Typos">rapido</item>
         <item tools:ignore="Typos">rapid_pay</item>
         <item tools:ignore="Typos">rappi</item>
         <item tools:ignore="Typos">rar_extractor</item>
@@ -1931,6 +2010,7 @@
         <item tools:ignore="Typos">sensibo</item>
         <item tools:ignore="Typos">sentbe</item>
         <item tools:ignore="Typos">serenity</item>
+        <item tools:ignore="Typos">series__guide</item>
         <item tools:ignore="Typos">servicely</item>
         <item tools:ignore="Typos">sesame_shortcuts</item>
         <item tools:ignore="Typos">settings</item>
@@ -1983,6 +2063,7 @@
         <item tools:ignore="Typos">sixt</item>
         <item tools:ignore="Typos">skeelo</item>
         <item tools:ignore="Typos">skiplagged</item>
+        <item tools:ignore="Typos">skip__the__dishes</item>
         <item tools:ignore="Typos">skit_premium</item>
         <item tools:ignore="Typos">skrill</item>
         <item tools:ignore="Typos">skysafari</item>
@@ -2009,6 +2090,7 @@
         <item tools:ignore="Typos">slack3</item>
         <item tools:ignore="Typos">sleep_as_android</item>
         <item tools:ignore="Typos">slow_shutter_camera</item>
+        <item tools:ignore="Typos">smart_cookies</item>
         <item tools:ignore="Typos">smart_launcher</item>
         <item tools:ignore="Typos">smart__news</item>
         <item tools:ignore="Typos">smart__news2</item>
@@ -2073,6 +2155,7 @@
         <item tools:ignore="Typos">stellio</item>
         <item tools:ignore="Typos">stealth_reddit</item>
         <item tools:ignore="Typos">sticker_ly</item>
+        <item tools:ignore="Typos">stingray_music</item>
         <item tools:ignore="Typos">storytel</item>
         <item tools:ignore="Typos">strava</item>
         <item tools:ignore="Typos">storm_alerts</item>
@@ -2097,6 +2180,7 @@
         <item tools:ignore="Typos">super_mario_mushroom</item>
         <item tools:ignore="Typos">super_mario_run</item>
         <item tools:ignore="Typos">super_sound</item>
+        <item tools:ignore="Typos">super_starfish</item>
         <item tools:ignore="Typos">super_status_bar</item>
         <item tools:ignore="Typos">survivor_io</item>
         <item tools:ignore="Typos">swift_backup</item>
@@ -2143,6 +2227,7 @@
         <item tools:ignore="Typos">temu</item>
         <item tools:ignore="Typos">teo</item>
         <item tools:ignore="Typos">terminal_termux</item>
+        <item tools:ignore="Typos">terraria</item>
         <item tools:ignore="Typos">tesla</item>
         <item tools:ignore="Typos">tessa_icons</item>
         <item tools:ignore="Typos">text_add_text_to_photo</item>
@@ -2276,6 +2361,7 @@
         <item tools:ignore="Typos">ultimate_emf_detector</item>
         <item tools:ignore="Typos">ultimate_guitar_tab</item>
         <item tools:ignore="Typos">unified_remote</item>
+        <item tools:ignore="Typos">uninstaller</item>
         <item tools:ignore="Typos">uno</item>
         <item tools:ignore="Typos">uno2</item>
         <item tools:ignore="Typos">uno3</item>
@@ -2295,6 +2381,7 @@
         <item tools:ignore="Typos">via_browser</item>
         <item tools:ignore="Typos">viber</item>
         <item tools:ignore="Typos">video_editor</item>
+        <item tools:ignore="Typos">video_mp3_converter</item>
         <item tools:ignore="Typos">vidstitch</item>
         <item tools:ignore="Typos">vimage</item>
         <item tools:ignore="Typos">vimeo</item>
@@ -2421,6 +2508,7 @@
         <item tools:ignore="Typos">worten</item>
         <item tools:ignore="Typos">wps_office</item>
         <item tools:ignore="Typos">wtmp</item>
+        <item tools:ignore="Typos">xfinity</item>
         <item tools:ignore="Typos">xiaomi_file_manager</item>
         <item tools:ignore="Typos">xiaomi_file_manager2</item>
         <item tools:ignore="Typos">xiaomi_mi_browser</item>
@@ -2440,6 +2528,7 @@
         <item tools:ignore="Typos">yahoo_weather</item>
         <item tools:ignore="Typos">yahoo_weather2</item>
         <item tools:ignore="Typos">yandex_maps</item>
+        <item tools:ignore="Typos">yandex_music</item>
         <item tools:ignore="Typos">yasnac</item>
         <item tools:ignore="Typos">yazio</item>
         <item tools:ignore="Typos">yego</item>
@@ -3359,13 +3448,17 @@
         <item tools:ignore="Typos">castle_of_illusion</item>
         <item tools:ignore="Typos">clash_of_clans</item>
         <item tools:ignore="Typos">clash_royale</item>
+        <item tools:ignore="Typos">dead_cells</item>
+        <item tools:ignore="Typos">dead_cells2</item>
         <item tools:ignore="Typos">diablo</item>
         <item tools:ignore="Typos">dolphin_emulator</item>
         <item tools:ignore="Typos">dragon_quest</item>
         <item tools:ignore="Typos">drastic_emulator</item>
         <item tools:ignore="Typos">dream_league_soccer</item>
+        <item tools:ignore="Typos">efootball</item>
         <item tools:ignore="Typos">epic_games</item>
         <item tools:ignore="Typos">f1_mobile_racing</item>
+        <item tools:ignore="Typos">fairlight84</item>
         <item tools:ignore="Typos">fifa2</item>
         <item tools:ignore="Typos">fifa</item>
         <item tools:ignore="Typos">flow_free</item>
@@ -3381,6 +3474,7 @@
         <item tools:ignore="Typos">lost_lands</item>
         <item tools:ignore="Typos">m64plus</item>
         <item tools:ignore="Typos">madden_nfl</item>
+        <item tools:ignore="Typos">magic_the_gathering</item>
         <item tools:ignore="Typos">mario_kart_tour</item>
         <item tools:ignore="Typos">microsoft_xbox_game_pass</item>
         <item tools:ignore="Typos">microsoft_xbox</item>
@@ -3413,9 +3507,11 @@
         <item tools:ignore="Typos">super_mario</item>
         <item tools:ignore="Typos">super_mario_mushroom</item>
         <item tools:ignore="Typos">super_mario_run</item>
+        <item tools:ignore="Typos">super_starfish</item>
         <item tools:ignore="Typos">survivor_io</item>
         <item tools:ignore="Typos">switch_buddy</item>
         <item tools:ignore="Typos">table_tennis</item>
+        <item tools:ignore="Typos">terraria</item>
         <item tools:ignore="Typos">the_sims</item>
         <item tools:ignore="Typos">trivia_crack</item>
         <item tools:ignore="Typos">uno3</item>
