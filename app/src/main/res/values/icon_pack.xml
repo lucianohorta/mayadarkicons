@@ -35,57 +35,16 @@
 
 
     <string-array name="latest">
-        <item tools:ignore="Typos">ar_zone</item>
-        <item tools:ignore="Typos">android_auto</item>
-        <item tools:ignore="Typos">anyfin</item>
-        <item tools:ignore="Typos">arlo_secure</item>
-        <item tools:ignore="Typos">autotrader</item>
-        <item tools:ignore="Typos">bank_of_america</item>
-        <item tools:ignore="Typos">bbc_iplayer</item>
-        <item tools:ignore="Typos">___bc_services_card</item>
-        <item tools:ignore="Typos">___bclc_lotto</item>
-        <item tools:ignore="Typos">best_fiends</item>
-        <item tools:ignore="Typos">bouncer</item>
-        <item tools:ignore="Typos">burpy_walls</item>
-        <item tools:ignore="Typos">chick_fil_a</item>
-        <item tools:ignore="Typos">crave</item>
-        <item tools:ignore="Typos">dead_cells</item>
-        <item tools:ignore="Typos">dead_cells2</item>
-        <item tools:ignore="Typos">dolby_atmos</item>
-        <item tools:ignore="Typos">efootball</item>
-        <item tools:ignore="Typos">expert_raw</item>
-        <item tools:ignore="Typos">fairlight84</item>
-        <item tools:ignore="Typos">fot__mob</item>
-        <item tools:ignore="Typos">fullscreen_mode</item>
-        <item tools:ignore="Typos">hyperion_launcher</item>
-        <item tools:ignore="Typos">instacart</item>
-        <item tools:ignore="Typos">intact</item>
-        <item tools:ignore="Typos">iqiyi</item>
-        <item tools:ignore="Typos">kustom_weather_plugin</item>
-        <item tools:ignore="Typos">magic_the_gathering</item>
-        <item tools:ignore="Typos">mcpro24fps</item>
-        <item tools:ignore="Typos">motioncam_pro</item>
-        <item tools:ignore="Typos">miband_watchfaces</item>
-        <item tools:ignore="Typos">moonly</item>
-        <item tools:ignore="Typos">mtbank_moby</item>
-        <item tools:ignore="Typos">nest</item>
-        <item tools:ignore="Typos">one4___klwp_pro</item>
-        <item tools:ignore="Typos">open_english</item>
-        <item tools:ignore="Typos">paisa_expense_manager</item>
-        <item tools:ignore="Typos">playstation_app</item>
-        <item tools:ignore="Typos">proton_drive</item>
-        <item tools:ignore="Typos">rapido</item>
-        <item tools:ignore="Typos">series__guide</item>
-        <item tools:ignore="Typos">simple__login2</item>
-        <item tools:ignore="Typos">skip__the__dishes</item>
-        <item tools:ignore="Typos">smart_cookies</item>
-        <item tools:ignore="Typos">stingray_music</item>
-        <item tools:ignore="Typos">super_starfish</item>
-        <item tools:ignore="Typos">terraria</item>
-        <item tools:ignore="Typos">uninstaller</item>
-        <item tools:ignore="Typos">xfinity</item>
-        <item tools:ignore="Typos">yandex_music</item>
-        <item tools:ignore="Typos">video_mp3_converter</item>
+        <item tools:ignore="Typos">clave_pin</item>
+        <item tools:ignore="Typos">mcfit</item>
+        <item tools:ignore="Typos">mio</item>
+        <item tools:ignore="Typos">miravia</item>
+        <item tools:ignore="Typos">one___ui_fonts</item>
+        <item tools:ignore="Typos">shadow_fight</item>
+        <item tools:ignore="Typos">smart_life</item>
+        <item tools:ignore="Typos">sticker_maker</item>
+        <item tools:ignore="Typos">tulotero</item>
+        <item tools:ignore="Typos">xda_developers</item>
     </string-array>
 
 
@@ -215,6 +174,7 @@
         <item tools:ignore="Typos">apex_legends</item>
         <item tools:ignore="Typos">apex_news</item>
         <item tools:ignore="Typos">app__bar</item>
+        <item tools:ignore="Typos">apk_analyzer</item>
         <item tools:ignore="Typos">apple_camera</item>
         <item tools:ignore="Typos">apple_messages</item>
         <item tools:ignore="Typos">apple_music</item>
@@ -482,6 +442,7 @@
         <item tools:ignore="Typos">cityscoot</item>
         <item tools:ignore="Typos">clash_of_clans</item>
         <item tools:ignore="Typos">clash_royale</item>
+        <item tools:ignore="Typos">clave_pin</item>
         <item tools:ignore="Typos">clevnote</item>
         <item tools:ignore="Typos">clipboard_manager</item>
         <item tools:ignore="Typos">clip_studio_paint</item>
@@ -1365,6 +1326,7 @@
         <item tools:ignore="Typos">mayanormal</item>
         <item tools:ignore="Typos">mcafee</item>
         <item tools:ignore="Typos">mcdonalds</item>
+        <item tools:ignore="Typos">mcfit</item>
         <item tools:ignore="Typos">mcpro24fps</item>
         <item tools:ignore="Typos">mdgram_messenger</item>
         <item tools:ignore="Typos">mediafire</item>
@@ -1465,6 +1427,8 @@
         <item tools:ignore="Typos">min_skole</item>
         <item tools:ignore="Typos">mint_budget</item>
         <item tools:ignore="Typos">mint_selfie_filters</item>
+        <item tools:ignore="Typos">mio</item>
+        <item tools:ignore="Typos">miravia</item>
         <item tools:ignore="Typos">miodottore</item>
         <item tools:ignore="Typos">mirror_lab</item>
         <item tools:ignore="Typos">mitt_telenor</item>
@@ -1667,6 +1631,7 @@
         <item tools:ignore="Typos">oneplus_recorder</item>
         <item tools:ignore="Typos">oneplus_store</item>
         <item tools:ignore="Typos">oneplus_zen_mode</item>
+        <item tools:ignore="Typos">one___ui_fonts</item>
         <item tools:ignore="Typos">onleihe</item>
         <item tools:ignore="Typos">onleihe2</item>
         <item tools:ignore="Typos">onleihe3</item>
@@ -2022,6 +1987,7 @@
         <item tools:ignore="Typos">settings7</item>
         <item tools:ignore="Typos">settings8</item>
         <item tools:ignore="Typos">settings9</item>
+        <item tools:ignore="Typos">shadow_fight</item>
         <item tools:ignore="Typos">shahid</item>
         <item tools:ignore="Typos">shapical</item>
         <item tools:ignore="Typos">share__it</item>
@@ -2059,6 +2025,7 @@
         <item tools:ignore="Typos">simple_habit2</item>
         <item tools:ignore="Typos">simple_keyboard</item>
         <item tools:ignore="Typos">simple__login</item>
+        <item tools:ignore="Typos">simple__login2</item>
         <item tools:ignore="Typos">simple_social_browser</item>
         <item tools:ignore="Typos">sixt</item>
         <item tools:ignore="Typos">skeelo</item>
@@ -2092,6 +2059,7 @@
         <item tools:ignore="Typos">slow_shutter_camera</item>
         <item tools:ignore="Typos">smart_cookies</item>
         <item tools:ignore="Typos">smart_launcher</item>
+        <item tools:ignore="Typos">smart_life</item>
         <item tools:ignore="Typos">smart__news</item>
         <item tools:ignore="Typos">smart__news2</item>
         <item tools:ignore="Typos">smart__news3</item>
@@ -2155,6 +2123,7 @@
         <item tools:ignore="Typos">stellio</item>
         <item tools:ignore="Typos">stealth_reddit</item>
         <item tools:ignore="Typos">sticker_ly</item>
+        <item tools:ignore="Typos">sticker_maker</item>
         <item tools:ignore="Typos">stingray_music</item>
         <item tools:ignore="Typos">storytel</item>
         <item tools:ignore="Typos">strava</item>
@@ -2306,6 +2275,7 @@
         <item tools:ignore="Typos">truecaller</item>
         <item tools:ignore="Typos">truth_social</item>
         <item tools:ignore="Typos">tubi</item>
+        <item tools:ignore="Typos">tulotero</item>
         <item tools:ignore="Typos">tumblr</item>
         <item tools:ignore="Typos">tunein</item>
         <item tools:ignore="Typos">tunein2</item>
@@ -2508,6 +2478,7 @@
         <item tools:ignore="Typos">worten</item>
         <item tools:ignore="Typos">wps_office</item>
         <item tools:ignore="Typos">wtmp</item>
+        <item tools:ignore="Typos">xda_developers</item>
         <item tools:ignore="Typos">xfinity</item>
         <item tools:ignore="Typos">xiaomi_file_manager</item>
         <item tools:ignore="Typos">xiaomi_file_manager2</item>
@@ -2574,8 +2545,6 @@
         <item tools:ignore="Typos">zona_sul</item>
         <item tools:ignore="Typos">zoom</item>
         <item tools:ignore="Typos">zoopla</item>
-
-
     </string-array>
 
     <string-array name="system">

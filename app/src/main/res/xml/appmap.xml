@@ -182,6 +182,7 @@
     <item class="com.anyfin.app/com.anyfin.app.MainActivity" name="anyfin" />
     <item class="com.arlo.app/com.arlo.app.main.MainActivity" name="arlo_secure" />
     <item class="ca.autotrader.userapp/ca.autotrader.userapp.legacy.ui.phone.SplashActivity" name="autotrader" />
+    <item class="sk.styk.martin.apkanalyzer/sk.styk.martin.apkanalyzer.ui.main.MainActivity" name="apk_analyzer" />
 
     <!-- B:  -->
     <item class="com.quickplay.android.bellmediaplayer/ca.bell.fiberemote.boot.BootstrapActivity" name="bell_fibe_tv" />
@@ -254,12 +255,13 @@
     <item class="org.blokada.sex/ui.MainActivity" name="blokada" />
     <item class="com.bloomberg.android.plus/com.bloomberg.android.plus.MainActivity" name="bloomberg_finance" />
     <item class="me.bluemail.mail/com.trtf.blue.activity.Accounts" name="blue_mail" />
-    <item class="jp.co.pointblur.android.app.quick/jp.co.pointblur.android.app.quick.activity.APrepare" name="blur_name" />
-    <item class="com.judi.autoblur/judi.com.kottlinbase.ui.splash.SplashActivity" name="blur_name" />
-    <item class="com.inglesdivino.blurname/com.inglesdivino.blurname.MainActivity" name="blur_name" />
-    <item class="org.picseditor.blurbackground/org.picseditor.blurbackground.activity.LaunchActivity" name="blur_name" />
-    <item class="com.prinext.name.blur/com.prinext.name.blur.blurcamera.shapeblur.DslrSplashScreenAct" name="blur_name" />
-    <item class="com.bongasoft.blurnamevideo/com.bongasoft.blurnamevideo.activities.SplashScreenActivity" name="blur_name" />
+    <item class="jp.co.pointblur.android.app.quick/jp.co.pointblur.android.app.quick.activity.APrepare" name="blur_image" />
+    <item class="com.judi.autoblur/judi.com.kottlinbase.ui.splash.SplashActivity" name="blur_image" />
+    <item class="com.inglesdivino.blurname/com.inglesdivino.blurname.MainActivity" name="blur_image" />
+    <item class="org.picseditor.blurbackground/org.picseditor.blurbackground.activity.LaunchActivity" name="blur_image" />
+    <item class="com.prinext.name.blur/com.prinext.name.blur.blurcamera.shapeblur.DslrSplashScreenAct" name="blur_image" />
+    <item class="com.bongasoft.blurnamevideo/com.bongasoft.blurnamevideo.activities.SplashScreenActivity" name="blur_image" />
+    <item class="com.chris.tholotis/com.chris.tholotis.MainActivity" name="blur_image" />
     <item class="dk.appdictive.blurwallpaper/dk.appdictive.blurwallpaper.MainActivity" name="blur_wallpaper" />
     <item class="com.nexdev.blurone/com.nexdev.blurone.SplashAct" name="blurone" />
     <item class="it.mirko.beta/it.mirko.beta.login.LoginActivity" name="b_maniac"/>
@@ -311,6 +313,7 @@
     <item class="com.cvs.launchers.cvs/com.cvs.launchers.cvs.StartupActivity" name="cvs_pharmacy" />
     <item class="es.lacaixa.mobile.android.newwapicon/es.lacaixa.mobile.appcbk.features.splash.view.SplashActivity" name="caixabanknow" />
     <item class="es.caixabank.caixabanksign/zs.҅ū" name="caixabanksign" />
+    <item class="es.caixabank.caixabanksign/zs.пถ" name="caixabanksign" />
     <item class="es.cineyelmo/mx.com.ia.cinepolis4.ui.splash.SplashActivity" name="cine_yelmo" />
     <item class="com.fouru.certificacoesEdgarAbreu/com.fouru.certificacoesEdgarAbreu.MainActivity" name="certificacoes_edgar_abreu" />
     <item class="com.cingulo.app/com.cingulo.app.MainActivity" name="cingulo" />
@@ -417,6 +420,7 @@
     <item class="com.umotional.bikeapp/com.umotional.bikeapp.ui.main.MainActivity" name="cycle_navigation_cyclers" />
     <item class="com.chickfila.cfaflagship/com.chickfila.cfaflagship.activities.InitialLoadActivity" name="chick_fil_a" />
     <item class="ca.bellmedia.cravetv/awl.application.MainActivity" name="crave" />
+    <item class="es.aeat.pin24h/es.aeat.pin24h.presentation.activities.splash.SplashActivity" name="clave_pin" />
 
     <!-- D:  -->
     <item class="de.deutschlandcard.app/de.deutschlandcard.app.ui.LaunchActivity" name="deutschlandcard" />
@@ -706,6 +710,7 @@
     <item class="com.tdr3.hs.android/com.tdr3.hs.android.ui.auth.login.withCredentials.LoginActivity" name="hot__schedules" />
     <item class="project.vivid.hex.bodhi/project.vivid.hex.bodhi.activities.HexLauncherActivity" name="hex_installer" />
     <item class="project.vivid.hex.bodhi/project.vivid.hex.sharedthemes.activities.ThemesShowcaseActivity" name="hex_installer" />
+    <item class="project.vivid.hex.bodhi/project.vivid.hex.bodhi.activities.support.tools.HexThemeShortcutsLauncherActivity" name="hex_installer" />
     <item class="com.hilton.android.hhonors/com.mofo.android.hilton.core.activity.BootActivity" name="hilton" />
     <item class="com.hostelworld.app/com.hostelworld.app.features.launcher.view.LauncherActivity" name="hostel_world" />
     <item class="com.mihoyo.hoyolab/com.mihoyo.hoyolab.splash.splash.HoYoSplashActivity" name="hoyolab" />
@@ -993,6 +998,7 @@
     <item class="org.joinmastodon.android.sk/org.joinmastodon.android.MainActivity" name="megalodon" />
     <item class="me.zhanghai.android.files/me.zhanghai.android.files.filelist.FileListActivity" name="material_files" />
     <item class="com.mixplorer/com.mixplorer.activities.BrowseActivity" name="mixplorer" />
+    <item class="com.mixplorer.silver/com.mixplorer.activities.BrowseActivity" name="mixplorer" />
     <item class="game.maddex.action/game.maddex.action.RunnerActivity" name="mad_dex_2" />
     <item class="com.luizalabs.mlapp/com.luizalabs.mlapp.home.ui.HomeActivity" name="magalu" />
     <item class="com.magicpin.local/com.local.magicpin.screensplash.SplashScreen.CHRISTMAS" name="magicpin" />
@@ -1143,6 +1149,9 @@
     <item class="dev.rokitskiy.miband_watchface/dev.rokitskiy.miband_watchface.MainActivity" name="miband_watchfaces" />
     <item class="com.moonly.android/com.moonly.android.view.splash.SplashActivity" name="moonly" />
     <item class="by.mtbank.Moby/by.mtbank.ui.screen.auth.AuthActivity" name="mtbank_moby" />
+    <item class="com.mysports.branded.mcfit/com.mysports.branded.mcfit.ms_mobile_app_mcfit.MainActivity" name="mcfit" />
+    <item class="es.finetwork.vendor.mio/es.finetwork.mifi.authorization.splash.SplashActivity" name="mio" />
+    <item class="com.miravia.android/com.lazada.activities.EnterActivity" name="miravia" />
 
     <!-- N:  -->
     <item class="com.neofinancial.neo/com.neofinancial.neo.base.ui.RootActivity" name="neo_financial" />
@@ -1266,6 +1275,7 @@
     <item class="com.oyo.consumerlite/com.oyo.consumerlite.SplashActivity" name="oyo" />
     <item class="com.oyo.partnerapp/com.oyo.partnerapp.MainActivity" name="oyo" />
     <item class="cs14.pixelperfect.kwgtwidget.one4klwppro/cs14.pixelperfect.kwgtwidget.one4klwppro.MainActivity" name="one4___klwp_pro" />
+    <item class="com.oneui.fontz/com.oneui.fontz.MainActivity" name="one___ui_fonts" />
 
     <!-- P:  -->
     <item class="com.cjin.pokegenie.standard/com.canjin.pokegenie.MainActivity" name="poke_genie" />
@@ -1687,8 +1697,12 @@
     <item class="com.cookiegames.smartcookie/com.cookiegames.smartcookie.MainActivity" name="smart_cookies" />
     <item class="com.stingray.galaxie.android/galaxie.android.MainActivity" name="stingray_music" />
     <item class="com.protostar.starfish/com.unity3d.player.UnityPlayerActivity" name="super_starfish" />
+    <item class="com.nekki.shadowfightarena/com.nekki.unityplugins.NekkiNativeActivity" name="shadow_fight" />
+    <item class="com.tuya.smartlife/com.smart.ThingSplashActivity" name="smart_life" />
+    <item class="com.marsvard.stickermakerforwhatsapp/com.marsvard.stickermakerforwhatsapp.main.MainActivity" name="sticker_maker" />
 
     <!-- T:   -->
+    <item class="com.tulotero/com.tulotero.activities.SplashActivity" name="tulotero" />
     <item class="com.td/com.td.mobile.controllers.StartupActivity" name="td_canada" />
     <item class="com.themesonfire.iconpack.taco_deluxe.paid/com.themesonfire.iconpack.taco_deluxe.paid.activities.SplashActivity" name="taco_deluxe_icons" />
     <item class="com.themesonfire.iconpack.taco_taco.paid/com.themesonfire.iconpack.taco_taco.paid.activities.SplashActivity" name="taco_taco_icons" />
@@ -1955,6 +1969,8 @@
     <item class="com.xodo.pdf.reader/viewer.CompleteReaderMainActivity" name="xodo_pdf" />
     <item class="com.security.xvpn.z35kb/com.security.xvpn.z35kb.SplashActivity" name="x_vpn"/>
     <item class="com.xfinity.digitalhome/com.xfinity.digitalhome.features.launch.splash.SplashActivity" name="xfinity"/>
+    <item class="com.sec.android.app.sbrowser.webapk.w18a256fcf11539af0c5c13f30301ff241/org.chromium.webapk.shell_apk.h2o.H2OOpaqueMainActivity" name="xda_developers"/>
+    <item class="com.xda.labs.play/host.exp.exponent.MainActivity" name="xda_developers"/>
 
     <!-- Y:   -->
     <item class="ru.yandex.yandexmaps/ru.yandex.yandexmaps.SplashScreen" name="yandex_maps" />
@@ -2215,6 +2231,7 @@
     <item class="com.exteragram.messenger/com.exteragram.messenger.SpaceIcon" name="extera__gram" />
     <item class="com.exteragram.messenger/com.exteragram.messenger.Dsgn480Icon" name="extera__gram" />
     <item class="com.facebook.katana/com.facebook.katana.LoginActivity" name="facebook" />
+    <item class="com.facebook.katanb/com.facebook.katanb.LoginActivity" name="facebook" />
     <item class="com.facebook.orca/com.facebook.orca.auth.StartScreenActivity" name="facebook_messenger" />
     <item class="com.facebook.mlite/com.facebook.mlite.coreui.view.MainActivity" name="facebook_messenger_lite" />
     <item class="com.facebook.lite/com.facebook.lite.MainActivity" name="facebook_lite" />

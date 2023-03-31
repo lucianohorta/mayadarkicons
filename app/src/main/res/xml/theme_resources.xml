@@ -190,6 +190,7 @@
     <AppIcon name="com.anyfin.app/com.anyfin.app.MainActivity" image="anyfin" />
     <AppIcon name="com.arlo.app/com.arlo.app.main.MainActivity" image="arlo_secure" />
     <AppIcon name="ca.autotrader.userapp/ca.autotrader.userapp.legacy.ui.phone.SplashActivity" image="autotrader" />
+    <AppIcon name="sk.styk.martin.apkanalyzer/sk.styk.martin.apkanalyzer.ui.main.MainActivity" image="apk_analyzer" />
 
     <!-- B:  -->
     <AppIcon name="com.quickplay.android.bellmediaplayer/ca.bell.fiberemote.boot.BootstrapActivity" image="bell_fibe_tv" />
@@ -268,6 +269,7 @@
     <AppIcon name="org.picseditor.blurbackground/org.picseditor.blurbackground.activity.LaunchActivity" image="blur_image" />
     <AppIcon name="com.prinext.image.blur/com.prinext.image.blur.blurcamera.shapeblur.DslrSplashScreenAct" image="blur_image" />
     <AppIcon name="com.bongasoft.blurimagevideo/com.bongasoft.blurimagevideo.activities.SplashScreenActivity" image="blur_image" />
+    <AppIcon name="com.chris.tholotis/com.chris.tholotis.MainActivity" image="blur_image" />
     <AppIcon name="dk.appdictive.blurwallpaper/dk.appdictive.blurwallpaper.MainActivity" image="blur_wallpaper" />
     <AppIcon name="com.nexdev.blurone/com.nexdev.blurone.SplashAct" image="blurone" />
     <AppIcon name="it.mirko.beta/it.mirko.beta.login.LoginActivity" image="b_maniac"/>
@@ -319,6 +321,7 @@
     <AppIcon name="com.cvs.launchers.cvs/com.cvs.launchers.cvs.StartupActivity" image="cvs_pharmacy" />
     <AppIcon name="es.lacaixa.mobile.android.newwapicon/es.lacaixa.mobile.appcbk.features.splash.view.SplashActivity" image="caixabanknow" />
     <AppIcon name="es.caixabank.caixabanksign/zs.҅ū" image="caixabanksign" />
+    <AppIcon name="es.caixabank.caixabanksign/zs.пถ" image="caixabanksign" />
     <AppIcon name="es.cineyelmo/mx.com.ia.cinepolis4.ui.splash.SplashActivity" image="cine_yelmo" />
     <AppIcon name="com.fouru.certificacoesEdgarAbreu/com.fouru.certificacoesEdgarAbreu.MainActivity" image="certificacoes_edgar_abreu" />
     <AppIcon name="com.cingulo.app/com.cingulo.app.MainActivity" image="cingulo" />
@@ -425,6 +428,7 @@
     <AppIcon name="com.umotional.bikeapp/com.umotional.bikeapp.ui.main.MainActivity" image="cycle_navigation_cyclers" />
     <AppIcon name="com.chickfila.cfaflagship/com.chickfila.cfaflagship.activities.InitialLoadActivity" image="chick_fil_a" />
     <AppIcon name="ca.bellmedia.cravetv/awl.application.MainActivity" image="crave" />
+    <AppIcon name="es.aeat.pin24h/es.aeat.pin24h.presentation.activities.splash.SplashActivity" image="clave_pin" />
 
     <!-- D:  -->
     <AppIcon name="de.deutschlandcard.app/de.deutschlandcard.app.ui.LaunchActivity" image="deutschlandcard" />
@@ -713,6 +717,7 @@
     <AppIcon name="com.tdr3.hs.android/com.tdr3.hs.android.ui.auth.login.withCredentials.LoginActivity" image="hot__schedules" />
     <AppIcon name="project.vivid.hex.bodhi/project.vivid.hex.bodhi.activities.HexLauncherActivity" image="hex_installer" />
     <AppIcon name="project.vivid.hex.bodhi/project.vivid.hex.sharedthemes.activities.ThemesShowcaseActivity" image="hex_installer" />
+    <AppIcon name="project.vivid.hex.bodhi/project.vivid.hex.bodhi.activities.support.tools.HexThemeShortcutsLauncherActivity" image="hex_installer" />
     <AppIcon name="com.hilton.android.hhonors/com.mofo.android.hilton.core.activity.BootActivity" image="hilton" />
     <AppIcon name="com.hostelworld.app/com.hostelworld.app.features.launcher.view.LauncherActivity" image="hostel_world" />
     <AppIcon name="com.mihoyo.hoyolab/com.mihoyo.hoyolab.splash.splash.HoYoSplashActivity" image="hoyolab" />
@@ -999,6 +1004,7 @@
     <AppIcon name="org.joinmastodon.android.sk/org.joinmastodon.android.MainActivity" image="megalodon" />
     <AppIcon name="me.zhanghai.android.files/me.zhanghai.android.files.filelist.FileListActivity" image="material_files" />
     <AppIcon name="com.mixplorer/com.mixplorer.activities.BrowseActivity" image="mixplorer" />
+    <AppIcon name="com.mixplorer.silver/com.mixplorer.activities.BrowseActivity" image="mixplorer" />
     <AppIcon name="game.maddex.action/game.maddex.action.RunnerActivity" image="mad_dex_2" />
     <AppIcon name="com.luizalabs.mlapp/com.luizalabs.mlapp.home.ui.HomeActivity" image="magalu" />
     <AppIcon name="com.magicpin.local/com.local.magicpin.screensplash.SplashScreen.CHRISTMAS" image="magicpin" />
@@ -1149,6 +1155,9 @@
     <AppIcon name="dev.rokitskiy.miband_watchface/dev.rokitskiy.miband_watchface.MainActivity" image="miband_watchfaces" />
     <AppIcon name="com.moonly.android/com.moonly.android.view.splash.SplashActivity" image="moonly" />
     <AppIcon name="by.mtbank.Moby/by.mtbank.ui.screen.auth.AuthActivity" image="mtbank_moby" />
+    <AppIcon name="com.mysports.branded.mcfit/com.mysports.branded.mcfit.ms_mobile_app_mcfit.MainActivity" image="mcfit" />
+    <AppIcon name="es.finetwork.vendor.mio/es.finetwork.mifi.authorization.splash.SplashActivity" image="mio" />
+    <AppIcon name="com.miravia.android/com.lazada.activities.EnterActivity" image="miravia" />
 
     <!-- N:  -->
     <AppIcon name="com.neofinancial.neo/com.neofinancial.neo.base.ui.RootActivity" image="neo_financial" />
@@ -1272,6 +1281,7 @@
     <AppIcon name="com.oyo.consumerlite/com.oyo.consumerlite.SplashActivity" image="oyo" />
     <AppIcon name="com.oyo.partnerapp/com.oyo.partnerapp.MainActivity" image="oyo" />
     <AppIcon name="cs14.pixelperfect.kwgtwidget.one4klwppro/cs14.pixelperfect.kwgtwidget.one4klwppro.MainActivity" image="one4___klwp_pro" />
+    <AppIcon name="com.oneui.fontz/com.oneui.fontz.MainActivity" image="one___ui_fonts" />
 
     <!-- P:  -->
     <AppIcon name="com.cjin.pokegenie.standard/com.canjin.pokegenie.MainActivity" image="poke_genie" />
@@ -1693,6 +1703,9 @@
     <AppIcon name="com.cookiegames.smartcookie/com.cookiegames.smartcookie.MainActivity" image="smart_cookies" />
     <AppIcon name="com.stingray.galaxie.android/galaxie.android.MainActivity" image="stingray_music" />
     <AppIcon name="com.protostar.starfish/com.unity3d.player.UnityPlayerActivity" image="super_starfish" />
+    <AppIcon name="com.nekki.shadowfightarena/com.nekki.unityplugins.NekkiNativeActivity" image="shadow_fight" />
+    <AppIcon name="com.tuya.smartlife/com.smart.ThingSplashActivity" image="smart_life" />
+    <AppIcon name="com.marsvard.stickermakerforwhatsapp/com.marsvard.stickermakerforwhatsapp.main.MainActivity" image="sticker_maker" />
 
     <!-- T:   -->
     <AppIcon name="com.td/com.td.mobile.controllers.StartupActivity" image="td_canada" />
@@ -1820,6 +1833,7 @@
     <AppIcon name="tv.twitch.android.app/tv.twitch.android.app.core.LandingActivity" image="twitch2" />
     <AppIcon name="tv.twitch.android.app/tv.twitch.android.app.core.LandingActivity" image="twitch" />
     <AppIcon name="com.and.games505.TerrariaPaid/com.unity3d.player.UnityPlayerActivity" image="terraria" />
+    <AppIcon name="com.tulotero/com.tulotero.activities.SplashActivity" image="tulotero" />
 
     <!-- U:   -->
     <AppIcon name="com.uphold.wallet/com.uphold.wallet.SplashActivity" image="uphold_bitcoin" />
@@ -1961,6 +1975,8 @@
     <AppIcon name="com.xodo.pdf.reader/viewer.CompleteReaderMainActivity" image="xodo_pdf" />
     <AppIcon name="com.security.xvpn.z35kb/com.security.xvpn.z35kb.SplashActivity" image="x_vpn"/>
     <AppIcon name="com.xfinity.digitalhome/com.xfinity.digitalhome.features.launch.splash.SplashActivity" image="xfinity"/>
+    <AppIcon name="com.sec.android.app.sbrowser.webapk.w18a256fcf11539af0c5c13f30301ff241/org.chromium.webapk.shell_apk.h2o.H2OOpaqueMainActivity" image="xda_developers"/>
+    <AppIcon name="com.xda.labs.play/host.exp.exponent.MainActivity" image="xda_developers"/>
 
     <!-- Y:   -->
     <AppIcon name="ru.yandex.yandexmaps/ru.yandex.yandexmaps.SplashScreen" image="yandex_maps" />
@@ -2252,6 +2268,7 @@
     <AppIcon name="com.exteragram.messenger/com.exteragram.messenger.SpaceIcon" image="extera__gram" />
     <AppIcon name="com.exteragram.messenger/com.exteragram.messenger.Dsgn480Icon" image="extera__gram" />
     <AppIcon name="com.facebook.katana/com.facebook.katana.LoginActivity" image="facebook" />
+    <AppIcon name="com.facebook.katanb/com.facebook.katanb.LoginActivity" image="facebook" />
     <AppIcon name="com.facebook.orca/com.facebook.orca.auth.StartScreenActivity" image="facebook_messenger" />
     <AppIcon name="com.facebook.mlite/com.facebook.mlite.coreui.view.MainActivity" image="facebook_messenger_lite" />
     <AppIcon name="com.facebook.lite/com.facebook.lite.MainActivity" image="facebook_lite" />

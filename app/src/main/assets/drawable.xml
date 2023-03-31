@@ -4,57 +4,17 @@
     <version>1</version>
 
     <category title="Latest" />
-    <item drawable="ar_zone" />
-    <item drawable="android_auto" />
-    <item drawable="anyfin" />
-    <item drawable="arlo_secure" />
-    <item drawable="autotrader" />
-    <item drawable="bank_of_america" />
-    <item drawable="bbc_iplayer" />
-    <item drawable="___bc_services_card" />
-    <item drawable="___bclc_lotto" />
-    <item drawable="best_fiends" />
-    <item drawable="bouncer" />
-    <item drawable="burpy_walls" />
-    <item drawable="chick_fil_a" />
-    <item drawable="crave" />
-    <item drawable="dead_cells" />
-    <item drawable="dead_cells2" />
-    <item drawable="dolby_atmos" />
-    <item drawable="efootball" />
-    <item drawable="expert_raw" />
-    <item drawable="fairlight84" />
-    <item drawable="fot__mob" />
-    <item drawable="fullscreen_mode" />
-    <item drawable="hyperion_launcher" />
-    <item drawable="instacart" />
-    <item drawable="intact" />
-    <item drawable="iqiyi" />
-    <item drawable="kustom_weather_plugin" />
-    <item drawable="magic_the_gathering" />
-    <item drawable="mcpro24fps" />
-    <item drawable="motioncam_pro" />
-    <item drawable="miband_watchfaces" />
-    <item drawable="moonly" />
-    <item drawable="mtbank_moby" />
-    <item drawable="nest" />
-    <item drawable="one4___klwp_pro" />
-    <item drawable="open_english" />
-    <item drawable="paisa_expense_manager" />
-    <item drawable="playstation_app" />
-    <item drawable="proton_drive" />
-    <item drawable="rapido" />
-    <item drawable="series__guide" />
-    <item drawable="simple__login2" />
-    <item drawable="skip__the__dishes" />
-    <item drawable="smart_cookies" />
-    <item drawable="stingray_music" />
-    <item drawable="super_starfish" />
-    <item drawable="terraria" />
-    <item drawable="uninstaller" />
-    <item drawable="xfinity" />
-    <item drawable="yandex_music" />
-    <item drawable="video_mp3_converter" />
+    <item drawable="apk_analyzer" />
+    <item drawable="clave_pin" />
+    <item drawable="mcfit" />
+    <item drawable="mio" />
+    <item drawable="miravia" />
+    <item drawable="one___ui_fonts" />
+    <item drawable="shadow_fight" />
+    <item drawable="smart_life" />
+    <item drawable="sticker_maker" />
+    <item drawable="tulotero" />
+    <item drawable="xda_developers" />
 
     <category title="Apps" />
     <item drawable="___1dm_plus" />
@@ -182,6 +142,7 @@
     <item drawable="apex_legends" />
     <item drawable="apex_news" />
     <item drawable="app__bar" />
+    <item drawable="apk_analyzer" />
     <item drawable="apple_camera" />
     <item drawable="apple_messages" />
     <item drawable="apple_music" />
@@ -449,6 +410,7 @@
     <item drawable="cityscoot" />
     <item drawable="clash_of_clans" />
     <item drawable="clash_royale" />
+    <item drawable="clave_pin" />
     <item drawable="clevnote" />
     <item drawable="clipboard_manager" />
     <item drawable="clip_studio_paint" />
@@ -1332,6 +1294,7 @@
     <item drawable="mayanormal" />
     <item drawable="mcafee" />
     <item drawable="mcdonalds" />
+    <item drawable="mcfit" />
     <item drawable="mcpro24fps" />
     <item drawable="mdgram_messenger" />
     <item drawable="mediafire" />
@@ -1432,6 +1395,8 @@
     <item drawable="min_skole" />
     <item drawable="mint_budget" />
     <item drawable="mint_selfie_filters" />
+    <item drawable="mio" />
+    <item drawable="miravia" />
     <item drawable="miodottore" />
     <item drawable="mirror_lab" />
     <item drawable="mitt_telenor" />
@@ -1634,6 +1599,7 @@
     <item drawable="oneplus_recorder" />
     <item drawable="oneplus_store" />
     <item drawable="oneplus_zen_mode" />
+    <item drawable="one___ui_fonts" />
     <item drawable="onleihe" />
     <item drawable="onleihe2" />
     <item drawable="onleihe3" />
@@ -1989,6 +1955,7 @@
     <item drawable="settings7" />
     <item drawable="settings8" />
     <item drawable="settings9" />
+    <item drawable="shadow_fight" />
     <item drawable="shahid" />
     <item drawable="shapical" />
     <item drawable="share__it" />
@@ -2060,6 +2027,7 @@
     <item drawable="slow_shutter_camera" />
     <item drawable="smart_cookies" />
     <item drawable="smart_launcher" />
+    <item drawable="smart_life" />
     <item drawable="smart__news" />
     <item drawable="smart__news2" />
     <item drawable="smart__news3" />
@@ -2123,6 +2091,7 @@
     <item drawable="stellio" />
     <item drawable="stealth_reddit" />
     <item drawable="sticker_ly" />
+    <item drawable="sticker_maker" />
     <item drawable="stingray_music" />
     <item drawable="storytel" />
     <item drawable="strava" />
@@ -2274,6 +2243,7 @@
     <item drawable="truecaller" />
     <item drawable="truth_social" />
     <item drawable="tubi" />
+    <item drawable="tulotero" />
     <item drawable="tumblr" />
     <item drawable="tunein" />
     <item drawable="tunein2" />
@@ -2476,6 +2446,7 @@
     <item drawable="worten" />
     <item drawable="wps_office" />
     <item drawable="wtmp" />
+    <item drawable="xda_developers" />
     <item drawable="xfinity" />
     <item drawable="xiaomi_file_manager" />
     <item drawable="xiaomi_file_manager2" />
@@ -3448,6 +3419,7 @@
     <item drawable="pubg" />
     <item drawable="real_racing3" />
     <item drawable="roblox" />
+    <item drawable="shadow_fight" />
     <item drawable="soccer_stars" />
     <item drawable="sonic2" />
     <item drawable="sonic" />
