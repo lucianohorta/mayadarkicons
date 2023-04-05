@@ -1,5 +1,5 @@
 # Maya Dark Icon Pack
-Available on PlayStore: [Maya Dark Icon Pack](https://play.google.com/store/apps/details?id=com.mayadarkicons.app)
+Available on PlayStore: [Maya Dark Icon Pack](https://play.google.com/store/apps/details?id=com.mayaiconsdark.app)
 
 [!["Buy me a Coffee!"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.paypal.com/donate/?hosted_button_id=59HRA7X8F26VU)
 
