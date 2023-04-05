@@ -2,7 +2,7 @@
 <resources>
     <version title="v1.0.1" />
     <item text="10 new icons added" />
-    <version title="v1.0.1" />
+    <version title="v1.0.0" />
     <item text="Initial release!" />
     <item text="" /> <!-- this one is empty and therefore ignored -->
 </resources>
